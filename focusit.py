@@ -1,6 +1,6 @@
-import cv2  # type: ignore
+import cv2 
 import time
-from mediapipe.python.solutions import face_mesh as mp_face_mesh  # type: ignore
+from mediapipe.python.solutions import face_mesh as mp_face_mesh
 
 # Initialize Google MediaPipe Face Mesh for facial landmark detection
 face_mesh = mp_face_mesh.FaceMesh(
