@@ -21,8 +21,6 @@ python focusit.py
 ## Controls
 While the camera window is active, you can use the following keyboard shortcuts to control the application:
 
-Space : Start / Resume the timer.
-
-p : Pause the timer.
+Space / P : Start / Resume the timer.
 
 Esc : Exit and close the application.
